@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hnadathur
-- 👀 I’m interested in finding random correlations in real-time data streams
+- 👀 I’m interested in finding useful data in real-time random data streams
 - 🌱 I’m currently learning Apache Nifi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hari.nadathur@gmail.com
